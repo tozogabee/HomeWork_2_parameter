@@ -12,7 +12,7 @@ public class Main {
 		{
 			for(String tmp : args)
 			{
-				System.out.println("Hello "+tmp);
+				System.out.println("Hello "+tmp+"!");
 			}
 		}
 	}
